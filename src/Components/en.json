@@ -1,0 +1,14 @@
+{
+    "Common": {
+      "minutes": "Minutes",
+      "days": "Days",
+      "button": {
+        "save": "SAVE",
+        "cancel": "CANCEL"
+      },
+      "done": "Done"
+    },
+    "Settings": {
+      "audio": "Audio Enabled?"
+    }
+  }
